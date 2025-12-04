@@ -1,5 +1,11 @@
 # Autonomous Vision Pan-Tilt Tracker (Raspberry Pi 5)
 
+
+
+https://github.com/user-attachments/assets/3721efa2-5bd6-4499-8468-93d212292350
+
+
+
 Real-time face and person tracking on a Raspberry Pi 5, driving a pan-tilt rig with a PCA9685 servo controller. The system uses OpenCV DNN models to detect faces first, then falls back to body detection for robust human following.
 
 This repository contains an **educational and hobby-focused version** of the project that demonstrates:
