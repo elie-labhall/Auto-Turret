@@ -1,0 +1,6 @@
+opencv-python
+numpy
+flask
+adafruit-circuitpython-pca9685
+RPi.GPIO
+picamera2
